@@ -12,7 +12,7 @@ function Header() {
 
   return (
     <div className="grid grid-rows-3">
-      <Link href="/top">top</Link>
+      <Link href="/">top</Link>
       <Link href="/aboutme">about me</Link>
       <Link href="/link">linl</Link>
     </div>
